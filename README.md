@@ -1,6 +1,13 @@
 # Python Package Exercise
 ![Python build & test](https://github.com/software-students-fall2024/3-python-package-thecoders2/actions/workflows/build.yaml/badge.svg)
 
+## Team members
+
+* Wilson Xu [Profile](https://github.com/wilsonxu101)
+* Hanna Han [Profile](https://github.com/HannaHan2)
+* Sewon Kim [Profile](https://github.com/SewonKim0)
+* Rhan Chen [Profile](https://github.com/xc528)
+
 ## Package Description
 
 A Python package lets users select a category and sub-category to reveal two unique facts about it. One fact is true, while the other is a playful fabrication, and the user needs to identify the correct one. 
